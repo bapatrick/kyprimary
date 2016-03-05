@@ -20,7 +20,7 @@ A landing page for Kentucky citizens to learn how and where to vote in the 2016 
 * Who can vote
     Register to vote online [see here](https://vrsws.sos.ky.gov/ovrweb/)
     Example ballots for KY 2016 [see here](http://apps.sos.ky.gov/electionballots/)
-    ID is required for voting; list of acceptable IDs[see here](https://www.usvotefoundation.org/vote/sviddomestic.htm?submission=true&stateId=20)
+    ID is required for voting; list of acceptable IDs[see here](https://www.usvotefoundation.org/vote/sviddomestic.htm?submission=true&stateId=20); [see here](https://ballotpedia.org/Voter_identification_laws_by_state)
 * When can they vote: May 17, 2016
 * Who/what are they voting for (Democratic Presidential, etc.)
 * Absentee Ballot availability for residents of other states
